@@ -1,6 +1,6 @@
 export const profile = {
   name: "Truong Xuan Nhat",
-  role: "Intern Penetration Tester / Red Team",
+  role: "Penetration Tester",
   location: "Ho Chi Minh City, Viet Nam",
   intro: "Passionate about web penetration testing, red team operations, and wireless/IoT security labs.",
   email: "txnhat2222@gmail.com",
@@ -88,6 +88,20 @@ export const profile = {
   ],
 
   achievements: [
+    {
+      title: "Web Penetration Testing",
+      organization: "Cyber Jutsu Academy",
+      year: "2025",
+      icon: "certificate",
+      link: "/Trương Xuân Nhật .pdf"
+    },
+    {
+      title: "Net Challenge 2025",
+      organization: "University of Information Technology (UIT)",
+      year: "2025",
+      icon: "certificate",
+      link: "https://s3.uitiot.vn/uitiot-nc/certs/2025-netchallenge/ChungNhanHoanThanh/2512176082-23162073.jpg"
+    },
     {
       title: "First Place — CTF Competition",
       organization: "HCMUTE",
